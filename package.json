@@ -1,0 +1,27 @@
+{
+  "name": "odin-testingpractice",
+  "version": "1.0.0",
+  "description": "tdd testing using babel for jest",
+  "main": "babel.config.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osseko/odin-testingPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/osseko/odin-testingPractice/issues"
+  },
+  "homepage": "https://github.com/osseko/odin-testingPractice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.7",
+    "jest": "^30.4.2"
+  }
+  
+  
+}
